@@ -1,0 +1,251 @@
+ContestID,ContestName,NominatingParty,PartyCode,AreaType,AreaNum,OfficeSeqNo,BallotOrder,CandidateID,CandidateName,CurrentDateTime,VoteFor,CandidateVotes,CandidatePercentage,PrecinctsReporting
+300031511,"President","","","","Federal",110001,,9901,"Write-in",12/3/2024 1:26:02 PM,1,949,0.006056506117135,1148/1314
+300031511,"President","Constitution","","","Federal",110001,,300046773,"Randall Terry",12/3/2024 1:26:02 PM,1,180,0.0011487577461373,1148/1314
+300031511,"President","Democrat","","","Federal",110001,,300046768,"Kamala D Harris/Tim Walz",12/3/2024 1:26:02 PM,1,73970,0.472075613787646,1148/1314
+300031511,"President","Libertarian","","","Federal",110001,,300046769,"Chase Oliver/Mike ter Maat",12/3/2024 1:26:02 PM,1,610,0.00389301236190975,1148/1314
+300031511,"President","Pacific Green","","","Federal",110001,,300046771,"Jill Stein/Rudolph Ware",12/3/2024 1:26:02 PM,1,900,0.00574378873068651,1148/1314
+300031511,"President","Progressive","","","Federal",110001,,300046774,"Cornel West",12/3/2024 1:26:02 PM,1,298,0.00190183226860509,1148/1314
+300031511,"President","Republican","","","Federal",110001,,300046779,"Donald J Trump/JD Vance",12/3/2024 1:26:02 PM,1,77089,0.491981032733214,1148/1314
+300031511,"President","We The People","","","Federal",110001,,300046766,"Robert F Kennedy Jr/Nicole Shanahan",12/3/2024 1:26:02 PM,1,2695,0.0171994562546668,1148/1314
+300031513,"US Representative, 2nd District","","","","US Representative 2nd District",111002,,9901,"Write-in",12/3/2024 1:26:02 PM,1,0,0,351/370
+300031513,"US Representative, 2nd District","Constitution","","","US Representative 2nd District",111002,,300046788,"Michael Kurt Stettler",12/3/2024 1:26:02 PM,1,0,0,351/370
+300031513,"US Representative, 2nd District","Democrat, Progressive","","","US Representative 2nd District",111002,,300046786,"Dan Ruby",12/3/2024 1:26:02 PM,1,0,0,351/370
+300031513,"US Representative, 2nd District","Republican","","","US Representative 2nd District",111002,,100066698,"Cliff Bentz",12/3/2024 1:26:02 PM,1,0,0,351/370
+300031516,"US Representative, 5th District","","","","US Representative 5th District",111004,,9901,"Write-in",12/3/2024 1:26:02 PM,1,26,0.00090658670107047,164/247
+300031516,"US Representative, 5th District","Democrat","","","US Representative 5th District",111004,,300046872,"Janelle S Bynum",12/3/2024 1:26:02 PM,1,8748,0.305031556190941,164/247
+300031516,"US Representative, 5th District","Independent","","","US Representative 5th District",111004,,300046877,"Brett Smith",12/3/2024 1:26:02 PM,1,1493,0.0520589978730081,164/247
+300031516,"US Representative, 5th District","Libertarian","","","US Representative 5th District",111004,,300046873,"Sonja Feintech",12/3/2024 1:26:02 PM,1,472,0.0164580354963562,164/247
+300031516,"US Representative, 5th District","Pacific Green","","","US Representative 5th District",111004,,300046875,"Andrea Thorn Townsend",12/3/2024 1:26:02 PM,1,260,0.0090658670107047,164/247
+300031516,"US Representative, 5th District","Republican","","","US Representative 5th District",111004,,100084017,"Lori Chavez-DeRemer",12/3/2024 1:26:02 PM,1,17680,0.616478956727919,164/247
+300031517,"US Representative, 6th District","","","","US Representative 6th District",111005,,9901,"Write-in",12/3/2024 1:26:02 PM,1,218,0.00177960636413358,166/182
+300031517,"US Representative, 6th District","Democrat, Independent","","","US Representative 6th District",111005,,100084021,"Andrea Salinas",12/3/2024 1:26:02 PM,1,61469,0.501791851362052,166/182
+300031517,"US Representative, 6th District","Republican","","","US Representative 6th District",111005,,300046879,"Mike Erickson",12/3/2024 1:26:02 PM,1,60812,0.496428542273815,166/182
+300031519,"Secretary of State","","","","Statewide Partisan",112006,,9901,"Write-in",12/3/2024 1:26:02 PM,1,119,0.000791244447990638,1148/1314
+300031519,"Secretary of State","Democrat, Independent, Working Families","","","Statewide Partisan",112006,,300046886,"Tobias Read",12/3/2024 1:26:02 PM,1,70749,0.470418096225963,1148/1314
+300031519,"Secretary of State","Pacific Green, Progressive","","","Statewide Partisan",112006,,300046884,"Nathalie Paravicini",12/3/2024 1:26:02 PM,1,5110,0.0339769674725392,1148/1314
+300031519,"Secretary of State","Republican, Constitution","","","Statewide Partisan",112006,,300046881,"Dennis Linthicum",12/3/2024 1:26:02 PM,1,74418,0.494813691853507,1148/1314
+300031520,"State Treasurer","","","","Statewide Partisan",112007,,9901,"Write-in",12/3/2024 1:26:02 PM,1,116,0.00077697475501852,1148/1314
+300031520,"State Treasurer","Democrat","","","Statewide Partisan",112007,,300046919,"Elizabeth Steiner",12/3/2024 1:26:02 PM,1,61499,0.411923883266241,1148/1314
+300031520,"State Treasurer","Republican, Constitution","","","Statewide Partisan",112007,,300046906,"Brian J Boquist",12/3/2024 1:26:02 PM,1,76724,0.513901819862422,1148/1314
+300031520,"State Treasurer","Working Families, Pacific Green","","","Statewide Partisan",112007,,300046905,"Mary King",12/3/2024 1:26:02 PM,1,10958,0.0733973221163185,1148/1314
+300031518,"Attorney General","","","","Statewide Partisan",112008,,9901,"Write-in",12/3/2024 1:26:02 PM,1,162,0.00108472215712401,1148/1315
+300031518,"Attorney General","Democrat, Working Families","","","Statewide Partisan",112008,,300046924,"Dan Rayfield",12/3/2024 1:26:02 PM,1,69435,0.464923969011765,1148/1315
+300031518,"Attorney General","Republican","","","Statewide Partisan",112008,,300046923,"Will Lathrop",12/3/2024 1:26:02 PM,1,79750,0.533991308831111,1148/1315
+300031524,"State Senator, 9th District","","","","SD 09",113009,,9901,"Write-in",12/3/2024 1:26:02 PM,1,63,0.00122926829268293,69/77
+300031524,"State Senator, 9th District","Democrat","","","SD 09",113009,,300046948,"Mike Ashland",12/3/2024 1:26:02 PM,1,16967,0.331063414634146,69/77
+300031524,"State Senator, 9th District","Republican","","","SD 09",113009,,300046950,"Fred Frank Girod",12/3/2024 1:26:02 PM,1,34220,0.667707317073171,69/77
+300031534,"State Senator, 29th District","","","","SD 29",113011,,9901,"Write-in",12/3/2024 1:26:02 PM,1,0,0,98/103
+300031534,"State Senator, 29th District","Nonaffiliated","","","SD 29",113011,,300046978,"Tania Wildbill",12/3/2024 1:26:02 PM,1,0,0,98/103
+300031534,"State Senator, 29th District","Republican, Democrat","","","SD 29",113011,,300046976,"Todd Nash",12/3/2024 1:26:02 PM,1,0,0,98/103
+300031546,"State Representative, 11th District","","","","HD 11",114010,,9901,"Write-in",12/3/2024 1:26:02 PM,1,10,0.00440334654337296,2/53
+300031546,"State Representative, 11th District","Nonaffiliated","","","HD 11",114010,,300046900,"Ivan Maluski",12/3/2024 1:26:02 PM,1,655,0.288419198590929,2/53
+300031546,"State Representative, 11th District","Republican","","","HD 11",114010,,300046903,"Jami Cate",12/3/2024 1:26:02 PM,1,1606,0.707177454865698,2/53
+300031550,"State Representative, 15th District","","","","HD 15",114011,,9901,"Write-in",12/3/2024 1:26:02 PM,1,2,0.000753863550697324,5/30
+300031550,"State Representative, 15th District","Democrat","","","HD 15",114011,,300046914,"Terrence Virnig",12/3/2024 1:26:02 PM,1,816,0.307576328684508,5/30
+300031550,"State Representative, 15th District","Republican","","","HD 15",114011,,300046916,"Shelly Boshart Davis",12/3/2024 1:26:02 PM,1,1835,0.691669807764795,5/30
+300031552,"State Representative, 17th District","","","","HD 17",114012,,9901,"Write-in",12/3/2024 1:26:02 PM,1,49,0.00158243177781366,36/44
+300031552,"State Representative, 17th District","Democrat","","","HD 17",114012,,300046926,"David W Beem",12/3/2024 1:26:02 PM,1,9773,0.315614403358631,36/44
+300031552,"State Representative, 17th District","Republican","","","HD 17",114012,,300046932,"Ed Diehl",12/3/2024 1:26:02 PM,1,21143,0.682803164863556,36/44
+300031553,"State Representative, 18th District","","","","HD 18",114013,,9901,"Write-in",12/3/2024 1:26:02 PM,1,32,0.00157032093434096,33/33
+300031553,"State Representative, 18th District","Democrat","","","HD 18",114013,,300046943,"Karyssa Dow",12/3/2024 1:26:02 PM,1,6547,0.32127784866032,33/33
+300031553,"State Representative, 18th District","Republican","","","HD 18",114013,,300046941,"Rick Lewis",12/3/2024 1:26:02 PM,1,13799,0.677151830405339,33/33
+300031554,"State Representative, 19th District","","","","HD 19",114014,,9901,"Write-in",12/3/2024 1:26:02 PM,1,45,0.00141176470588235,12/12
+300031554,"State Representative, 19th District","Democrat, Independent","","","HD 19",114014,,300046956,"Tom Andersen",12/3/2024 1:26:02 PM,1,17296,0.542619607843137,12/12
+300031554,"State Representative, 19th District","Republican","","","HD 19",114014,,300046949,"David Brown",12/3/2024 1:26:02 PM,1,14534,0.45596862745098,12/12
+300031555,"State Representative, 20th District","","","","HD 20",114015,,9901,"Write-in",12/3/2024 1:26:02 PM,1,11,0.00102069221490211,7/14
+300031555,"State Representative, 20th District","Democrat, Independent","","","HD 20",114015,,300046958,"Paul Evans",12/3/2024 1:26:02 PM,1,6503,0.603414679409854,7/14
+300031555,"State Representative, 20th District","Republican","","","HD 20",114015,,300046961,"Kevin S Chambers",12/3/2024 1:26:02 PM,1,4263,0.395564628375244,7/14
+300031556,"State Representative, 21st District","","","","HD 21",114016,,9901,"Write-in",12/3/2024 1:26:02 PM,1,49,0.00170168432019448,15/15
+300031556,"State Representative, 21st District","Democrat, Independent, Working Families","","","HD 21",114016,,300046964,"Virginia Stapleton",12/3/2024 1:26:02 PM,1,13822,0.480013891300573,15/15
+300031556,"State Representative, 21st District","Republican","","","HD 21",114016,,300046963,"Kevin L Mannix",12/3/2024 1:26:02 PM,1,14924,0.518284424379233,15/15
+300031557,"State Representative, 22nd District","","","","HD 22",114017,,9901,"Write-in",12/3/2024 1:26:02 PM,1,36,0.00172786177105832,19/19
+300031557,"State Representative, 22nd District","Democrat, Working Families","","","HD 22",114017,,300046966,"Lesly M Munoz",12/3/2024 1:26:02 PM,1,10480,0.502999760019198,19/19
+300031557,"State Representative, 22nd District","Republican","","","HD 22",114017,,300046967,"Tracy M Cramer",12/3/2024 1:26:02 PM,1,10319,0.495272378209743,19/19
+300031592,"State Representative, 57th District","","","","HD 57",114022,,9901,"Write-in",12/3/2024 1:26:02 PM,1,0,0,44/49
+300031592,"State Representative, 57th District","Republican, Democrat","","","HD 57",114022,,300047275,"Greg Smith",12/3/2024 1:26:02 PM,1,0,0,44/49
+300030964,"Marion County Commissioner, Position 3","","","","Marion County",115027,,9901,"Write-in",12/3/2024 1:26:02 PM,1,4436,0.0432704500673053,118/118
+300030964,"Marion County Commissioner, Position 3","Republican","","","Marion County",115027,,300039908,"Danielle Bethell",12/3/2024 1:26:02 PM,1,98082,0.956729549932695,118/118
+300031596,"Judge of the Supreme Court, Position 1","","","","Statewide Nonpartisan",117029,,9901,"Write-in",12/3/2024 1:26:02 PM,1,1841,0.0213895666318113,1148/1314
+300031596,"Judge of the Supreme Court, Position 1","","","","Statewide Nonpartisan",117029,,300046714,"Stephen K Bushong - Incumbent",12/3/2024 1:26:02 PM,1,84229,0.978610433368189,1148/1314
+300031597,"Judge of the Supreme Court, Position 7","","","","Statewide Nonpartisan",117030,,9901,"Write-in",12/3/2024 1:26:02 PM,1,1650,0.019319711960658,1148/1314
+300031597,"Judge of the Supreme Court, Position 7","","","","Statewide Nonpartisan",117030,,300046715,"Bronson D James - Incumbent",12/3/2024 1:26:02 PM,1,83755,0.980680288039342,1148/1314
+300031599,"Judge of the Circuit Court, 3rd District, Position 11","","","","Circuit Court District 03",118021,,9901,"Write-in",12/3/2024 1:26:02 PM,1,805,0.00720196823976739,118/118
+300031599,"Judge of the Circuit Court, 3rd District, Position 11","","","","Circuit Court District 03",118021,,300046834,"David L Carlson",12/3/2024 1:26:02 PM,1,55163,0.493518228584209,118/118
+300031599,"Judge of the Circuit Court, 3rd District, Position 11","","","","Circuit Court District 03",118021,,300046835,"Michelle Vlach-Ing",12/3/2024 1:26:02 PM,1,55807,0.499279803176023,118/118
+300030965,"Marion County Sheriff","","","","Marion County",120028,,9901,"Write-in",12/3/2024 1:26:02 PM,1,576,0.0047559283968558,118/118
+300030965,"Marion County Sheriff","","","","Marion County",120028,,300045957,"Nick Hunter",12/3/2024 1:26:02 PM,1,74132,0.612094590131449,118/118
+300030965,"Marion County Sheriff","","","","Marion County",120028,,300045984,"Stacy Rejaian",12/3/2024 1:26:02 PM,1,46404,0.383149481471696,118/118
+300030963,"Marion County Clerk","","","","Marion County",120029,,9901,"Write-in",12/3/2024 1:26:02 PM,1,1885,0.0195361081170716,118/118
+300030963,"Marion County Clerk","","","","Marion County",120029,,300045985,"Bill Burgess",12/3/2024 1:26:02 PM,1,94603,0.980463891882928,118/118
+300030977,"City of Gates, Mayor","","","","City of Gates",123028,,9901,"Write-in",12/3/2024 1:26:02 PM,1,69,1,1/2
+300030977,"City of Gates, Mayor","","","","City of Gates",123028,,300047259,"No Candidate Filed",12/3/2024 1:26:02 PM,1,0,0,1/2
+300030975,"City of Gates, Councilor (Vote For 2)","","","","City of Gates",123029,,9901,"Write-in",12/3/2024 1:26:02 PM,2,8,0.032520325203252,1/2
+300030975,"City of Gates, Councilor (Vote For 2)","","","","City of Gates",123029,,300046588,"Gary Crum",12/3/2024 1:26:02 PM,2,132,0.536585365853659,1/2
+300030975,"City of Gates, Councilor (Vote For 2)","","","","City of Gates",123029,,300046595,"Sandi Heward",12/3/2024 1:26:02 PM,2,106,0.430894308943089,1/2
+300030968,"City of Aumsville, Mayor","","","","City of Aumsville",123030,,9901,"Write-in",12/3/2024 1:26:02 PM,1,107,0.0793768545994065,1/1
+300030968,"City of Aumsville, Mayor","","","","City of Aumsville",123030,,100085532,"Angelica Ceja",12/3/2024 1:26:02 PM,1,1241,0.920623145400593,1/1
+300030991,"City of Salem, Mayor","","","","City of Salem",123030,,9901,"Write-in",12/3/2024 1:26:02 PM,1,3725,0.0959631089471108,32/36
+300030991,"City of Salem, Mayor","","","","City of Salem",123030,,300044869,"Julie Hoy",12/3/2024 1:26:02 PM,1,35092,0.904036891052889,32/36
+300030992,"City of Salem, Councilor, Ward 1","","","","City of Salem, Ward 1",123031,,9901,"Write-in",12/3/2024 1:26:02 PM,1,102,0.0294287362954414,5/6
+300030992,"City of Salem, Councilor, Ward 1","","","","City of Salem, Ward 1",123031,,300044871,"Paul Tigan",12/3/2024 1:26:02 PM,1,3364,0.970571263704559,5/6
+300030966,"City of Aumsville, Councilor (Vote For 3)","","","","City of Aumsville",123031,,9901,"Write-in",12/3/2024 1:26:02 PM,3,93,0.0321132596685083,1/1
+300030966,"City of Aumsville, Councilor (Vote For 3)","","","","City of Aumsville",123031,,100073098,"Scott Lee",12/3/2024 1:26:02 PM,3,928,0.320441988950276,1/1
+300030966,"City of Aumsville, Councilor (Vote For 3)","","","","City of Aumsville",123031,,300045958,"Katie Wallace",12/3/2024 1:26:02 PM,3,986,0.340469613259669,1/1
+300030966,"City of Aumsville, Councilor (Vote For 3)","","","","City of Aumsville",123031,,300045959,"Walter R Wick",12/3/2024 1:26:02 PM,3,889,0.306975138121547,1/1
+300030972,"City of Aurora, Mayor","","","","City of Aurora",123032,,9901,"Write-in",12/3/2024 1:26:02 PM,1,26,0.0504854368932039,1/1
+300030972,"City of Aurora, Mayor","","","","City of Aurora",123032,,100073151,"Brian Asher",12/3/2024 1:26:02 PM,1,489,0.949514563106796,1/1
+300030970,"City of Aurora, Councilor, Position 3","","","","City of Aurora",123033,,9901,"Write-in",12/3/2024 1:26:02 PM,1,20,0.043010752688172,1/1
+300030970,"City of Aurora, Councilor, Position 3","","","","City of Aurora",123033,,100055692,"Mercedes W Rhoden-Feely",12/3/2024 1:26:02 PM,1,445,0.956989247311828,1/1
+300030971,"City of Aurora, Councilor, Position 4","","","","City of Aurora",123034,,9901,"Write-in",12/3/2024 1:26:02 PM,1,16,0.0346320346320346,1/1
+300030971,"City of Aurora, Councilor, Position 4","","","","City of Aurora",123034,,300046767,"Julie Sixkiller",12/3/2024 1:26:02 PM,1,446,0.965367965367965,1/1
+300030982,"City of Idanha, Councilor (Vote For 5)","","","","City of Idanha",123034,,9901,"Write-in",12/3/2024 1:26:02 PM,5,43,1,1/2
+300030982,"City of Idanha, Councilor (Vote For 5)","","","","City of Idanha",123034,,300047258,"No Candidate Filed",12/3/2024 1:26:02 PM,5,0,0,1/2
+300031467,"City of Detroit, Councilor (Vote For 7)","","","","City of Detroit",123035,,9901,"Write-in",12/3/2024 1:26:02 PM,7,214,0.388384754990926,1/1
+300031467,"City of Detroit, Councilor (Vote For 7)","","","","City of Detroit",123035,,300046599,"Jim Trett",12/3/2024 1:26:02 PM,7,106,0.192377495462795,1/1
+300031467,"City of Detroit, Councilor (Vote For 7)","","","","City of Detroit",123035,,300046600,"Eric J Page",12/3/2024 1:26:02 PM,7,82,0.148820326678766,1/1
+300031467,"City of Detroit, Councilor (Vote For 7)","","","","City of Detroit",123035,,300046601,"Todd J Smith",12/3/2024 1:26:02 PM,7,86,0.156079854809437,1/1
+300031467,"City of Detroit, Councilor (Vote For 7)","","","","City of Detroit",123035,,300046602,"Christine Rasmussen",12/3/2024 1:26:02 PM,7,63,0.114337568058076,1/1
+300030974,"City of Donald, Mayor","","","","City of Donald",123036,,9901,"Write-in",12/3/2024 1:26:02 PM,1,362,1,1/1
+300030974,"City of Donald, Mayor","","","","City of Donald",123036,,300047346,"No Candidate Filed",12/3/2024 1:26:02 PM,1,0,0,1/1
+300030973,"City of Donald, Councilor (Vote For 3)","","","","City of Donald",123037,,9901,"Write-in",12/3/2024 1:26:02 PM,3,543,1,1/1
+300030973,"City of Donald, Councilor (Vote For 3)","","","","City of Donald",123037,,300047347,"No Candidate Filed",12/3/2024 1:26:02 PM,3,0,0,1/1
+300030977,"City of Gates, Mayor","","","","City of Gates",123038,,9901,"Write-in",12/3/2024 1:26:02 PM,1,69,1,1/2
+300030977,"City of Gates, Mayor","","","","City of Gates",123038,,300047259,"No Candidate Filed",12/3/2024 1:26:02 PM,1,0,0,1/2
+300030975,"City of Gates, Councilor (Vote For 2)","","","","City of Gates",123039,,9901,"Write-in",12/3/2024 1:26:02 PM,2,8,0.032520325203252,1/2
+300030975,"City of Gates, Councilor (Vote For 2)","","","","City of Gates",123039,,300046588,"Gary Crum",12/3/2024 1:26:02 PM,2,132,0.536585365853659,1/2
+300030975,"City of Gates, Councilor (Vote For 2)","","","","City of Gates",123039,,300046595,"Sandi Heward",12/3/2024 1:26:02 PM,2,106,0.430894308943089,1/2
+300030979,"City of Gervais, Mayor","","","","City of Gervais",123040,,9901,"Write-in",12/3/2024 1:26:02 PM,1,11,0.0136645962732919,1/1
+300030979,"City of Gervais, Mayor","","","","City of Gervais",123040,,300047441,"Brian Wagner",12/3/2024 1:26:02 PM,1,417,0.518012422360248,1/1
+300030979,"City of Gervais, Mayor","","","","City of Gervais",123040,,300047442,"Robert Ladd",12/3/2024 1:26:02 PM,1,223,0.277018633540373,1/1
+300030979,"City of Gervais, Mayor","","","","City of Gervais",123040,,300047443,"Tilda O Flores",12/3/2024 1:26:02 PM,1,154,0.191304347826087,1/1
+300030981,"City of Hubbard, Mayor","","","","City of Hubbard",123041,,9901,"Write-in",12/3/2024 1:26:02 PM,1,40,0.0411099691675231,1/1
+300030981,"City of Hubbard, Mayor","","","","City of Hubbard",123041,,100073124,"Charles EW Rostocil",12/3/2024 1:26:02 PM,1,933,0.958890030832477,1/1
+300031656,"City Of Mill City, Mayor","","","","City Of Mill City",123041,,9901,"Write-in",12/3/2024 1:26:02 PM,1,7,0.0593220338983051,1/2
+300031656,"City Of Mill City, Mayor","","","","City Of Mill City",123041,,100034647,"Tim Kirsch",12/3/2024 1:26:02 PM,1,111,0.940677966101695,1/2
+300030980,"City of Hubbard, Councilor (Vote For 2)","","","","City of Hubbard",123042,,9901,"Write-in",12/3/2024 1:26:02 PM,2,183,0.181008902077151,1/1
+300030980,"City of Hubbard, Councilor (Vote For 2)","","","","City of Hubbard",123042,,300046532,"Patrick Joseph Zotti",12/3/2024 1:26:02 PM,2,828,0.818991097922849,1/1
+300031713,"City Of Mill City, Council Members (Vote For 4)","","","","City Of Mill City",123042,,9901,"Write-in",12/3/2024 1:26:02 PM,4,3,0.0131578947368421,1/2
+300031713,"City Of Mill City, Council Members (Vote For 4)","","","","City Of Mill City",123042,,100056046,"Dawn E Plotts",12/3/2024 1:26:02 PM,4,87,0.381578947368421,1/2
+300031713,"City Of Mill City, Council Members (Vote For 4)","","","","City Of Mill City",123042,,300047115,"Misty R  Strasser",12/3/2024 1:26:02 PM,4,67,0.293859649122807,1/2
+300031713,"City Of Mill City, Council Members (Vote For 4)","","","","City Of Mill City",123042,,300047118,"Mike Van Atta",12/3/2024 1:26:02 PM,4,71,0.31140350877193,1/2
+300030982,"City of Idanha, Councilor (Vote For 5)","","","","City of Idanha",123043,,9901,"Write-in",12/3/2024 1:26:02 PM,5,43,1,1/2
+300030982,"City of Idanha, Councilor (Vote For 5)","","","","City of Idanha",123043,,300047258,"No Candidate Filed",12/3/2024 1:26:02 PM,5,0,0,1/2
+300030984,"City of Jefferson, Mayor","","","","City of Jefferson",123044,,9901,"Write-in",12/3/2024 1:26:02 PM,1,73,0.0732196589769308,1/1
+300030984,"City of Jefferson, Mayor","","","","City of Jefferson",123044,,300046391,"David Watkins",12/3/2024 1:26:02 PM,1,924,0.926780341023069,1/1
+300030983,"City of Jefferson, Councilor (Vote For 3)","","","","City of Jefferson",123045,,9901,"Write-in",12/3/2024 1:26:02 PM,3,141,0.0873065015479876,1/1
+300030983,"City of Jefferson, Councilor (Vote For 3)","","","","City of Jefferson",123045,,100073132,"David Kellogg",12/3/2024 1:26:02 PM,3,727,0.45015479876161,1/1
+300030983,"City of Jefferson, Councilor (Vote For 3)","","","","City of Jefferson",123045,,300046392,"Kate Gurley-Steele",12/3/2024 1:26:02 PM,3,747,0.462538699690402,1/1
+300030988,"City of Keizer, Mayor","","","","City of Keizer",123046,,9901,"Write-in",12/3/2024 1:26:02 PM,1,92,0.00575611587311519,6/6
+300030988,"City of Keizer, Mayor","","","","City of Keizer",123046,,100073133,"Cathy Clark",12/3/2024 1:26:02 PM,1,8310,0.519927422886817,6/6
+300030988,"City of Keizer, Mayor","","","","City of Keizer",123046,,300046676,"Lore Christopher",12/3/2024 1:26:02 PM,1,7581,0.474316461240068,6/6
+300030985,"City of Keizer, Councilor, Position #1","","","","City of Keizer",123047,,9901,"Write-in",12/3/2024 1:26:02 PM,1,95,0.00683256616800921,6/6
+300030985,"City of Keizer, Councilor, Position #1","","","","City of Keizer",123047,,300046682,"Tammy Kunz",12/3/2024 1:26:02 PM,1,4864,0.349827387802071,6/6
+300030985,"City of Keizer, Councilor, Position #1","","","","City of Keizer",123047,,300046683,"Marlene Parsons",12/3/2024 1:26:02 PM,1,8945,0.643340046029919,6/6
+300030986,"City of Keizer, Councilor, Position #2","","","","City of Keizer",123048,,9901,"Write-in",12/3/2024 1:26:02 PM,1,285,0.0267530273162489,6/6
+300030986,"City of Keizer, Councilor, Position #2","","","","City of Keizer",123048,,300045974,"Shaney Starr",12/3/2024 1:26:02 PM,1,10368,0.973246972683751,6/6
+300030987,"City of Keizer, Councilor, Position #3","","","","City of Keizer",123049,,9901,"Write-in",12/3/2024 1:26:02 PM,1,249,0.0232753785754347,6/6
+300030987,"City of Keizer, Councilor, Position #3","","","","City of Keizer",123049,,100073137,"Kyle Juran",12/3/2024 1:26:02 PM,1,10449,0.976724621424565,6/6
+300031656,"City Of Mill City, Mayor","","","","City of Mill City",123050,,9901,"Write-in",12/3/2024 1:26:02 PM,1,7,0.0593220338983051,1/2
+300031656,"City Of Mill City, Mayor","","","","City of Mill City",123050,,100034647,"Tim Kirsch",12/3/2024 1:26:02 PM,1,111,0.940677966101695,1/2
+300031713,"City Of Mill City, Council Members (Vote For 4)","","","","City of Mill City",123051,,9901,"Write-in",12/3/2024 1:26:02 PM,4,3,0.0131578947368421,1/2
+300031713,"City Of Mill City, Council Members (Vote For 4)","","","","City of Mill City",123051,,100056046,"Dawn E Plotts",12/3/2024 1:26:02 PM,4,87,0.381578947368421,1/2
+300031713,"City Of Mill City, Council Members (Vote For 4)","","","","City of Mill City",123051,,300047115,"Misty R  Strasser",12/3/2024 1:26:02 PM,4,67,0.293859649122807,1/2
+300031713,"City Of Mill City, Council Members (Vote For 4)","","","","City of Mill City",123051,,300047118,"Mike Van Atta",12/3/2024 1:26:02 PM,4,71,0.31140350877193,1/2
+300030990,"City of Mt Angel, Mayor","","","","City of Mt Angel",123052,,9901,"Write-in",12/3/2024 1:26:02 PM,1,80,0.0668337510442774,1/1
+300030990,"City of Mt Angel, Mayor","","","","City of Mt Angel",123052,,300046635,"Joseph Pfau",12/3/2024 1:26:02 PM,1,1117,0.933166248955723,1/1
+300030989,"City of Mt Angel, Councilor (Vote For 3)","","","","City of Mt Angel",123053,,9901,"Write-in",12/3/2024 1:26:02 PM,3,93,0.0325288562434418,1/1
+300030989,"City of Mt Angel, Councilor (Vote For 3)","","","","City of Mt Angel",123053,,100073157,"Shelley Otte",12/3/2024 1:26:02 PM,3,924,0.323189926547744,1/1
+300030989,"City of Mt Angel, Councilor (Vote For 3)","","","","City of Mt Angel",123053,,100073158,"David Hoffer",12/3/2024 1:26:02 PM,3,977,0.341727876880028,1/1
+300030989,"City of Mt Angel, Councilor (Vote For 3)","","","","City of Mt Angel",123053,,300046636,"Jack Belleque",12/3/2024 1:26:02 PM,3,865,0.302553340328786,1/1
+300030991,"City of Salem, Mayor","","","","City of Salem",123054,,9901,"Write-in",12/3/2024 1:26:02 PM,1,3725,0.0959631089471108,32/36
+300030991,"City of Salem, Mayor","","","","City of Salem",123054,,300044869,"Julie Hoy",12/3/2024 1:26:02 PM,1,35092,0.904036891052889,32/36
+300030992,"City of Salem, Councilor, Ward 1","","","","City of Salem, Ward 1",123055,,9901,"Write-in",12/3/2024 1:26:02 PM,1,102,0.0294287362954414,5/6
+300030992,"City of Salem, Councilor, Ward 1","","","","City of Salem, Ward 1",123055,,300044871,"Paul Tigan",12/3/2024 1:26:02 PM,1,3364,0.970571263704559,5/6
+300030993,"City of Salem, Councilor, Ward 3","","","","City of Salem, Ward 3",123056,,9901,"Write-in",12/3/2024 1:26:02 PM,1,185,0.0336853605243991,4/4
+300030993,"City of Salem, Councilor, Ward 3","","","","City of Salem, Ward 3",123056,,300044876,"Shane Matthews",12/3/2024 1:26:02 PM,1,5307,0.966314639475601,4/4
+300030994,"City of Salem, Councilor, Ward 5","","","","City of Salem, Ward 5",123057,,9901,"Write-in",12/3/2024 1:26:02 PM,1,73,0.0193531283138918,6/6
+300030994,"City of Salem, Councilor, Ward 5","","","","City of Salem, Ward 5",123057,,300044877,"Irvin M Brown",12/3/2024 1:26:02 PM,1,3699,0.980646871686108,6/6
+300030995,"City of Salem, Councilor, Ward 7","","","","City of Salem, Ward 7",123058,,9901,"Write-in",12/3/2024 1:26:02 PM,1,136,0.0193154381479903,3/3
+300030995,"City of Salem, Councilor, Ward 7","","","","City of Salem, Ward 7",123058,,300044879,"Vanessa Nordyke",12/3/2024 1:26:02 PM,1,6905,0.98068456185201,3/3
+300030997,"City of Scotts Mills, Mayor","","","","City of Scotts Mills",123059,,9901,"Write-in",12/3/2024 1:26:02 PM,1,7,0.0344827586206897,1/1
+300030997,"City of Scotts Mills, Mayor","","","","City of Scotts Mills",123059,,100073161,"Paul Brakeman",12/3/2024 1:26:02 PM,1,130,0.640394088669951,1/1
+300030997,"City of Scotts Mills, Mayor","","","","City of Scotts Mills",123059,,300046068,"Jason K Axness",12/3/2024 1:26:02 PM,1,66,0.32512315270936,1/1
+300030996,"City of Scotts Mills, Councilor (Vote For 3)","","","","City of Scotts Mills",123060,,9901,"Write-in",12/3/2024 1:26:02 PM,3,30,0.078740157480315,1/1
+300030996,"City of Scotts Mills, Councilor (Vote For 3)","","","","City of Scotts Mills",123060,,100073897,"Aage Wurdinger",12/3/2024 1:26:02 PM,3,126,0.330708661417323,1/1
+300030996,"City of Scotts Mills, Councilor (Vote For 3)","","","","City of Scotts Mills",123060,,300045976,"Shawna Axness",12/3/2024 1:26:02 PM,3,94,0.246719160104987,1/1
+300030996,"City of Scotts Mills, Councilor (Vote For 3)","","","","City of Scotts Mills",123060,,300046073,"Jay Jackson",12/3/2024 1:26:02 PM,3,131,0.343832020997375,1/1
+300030999,"City of Silverton, Mayor","","","","City of Silverton",123061,,9901,"Write-in",12/3/2024 1:26:02 PM,1,192,0.0449122807017544,2/2
+300030999,"City of Silverton, Mayor","","","","City of Silverton",123061,,100085717,"Jason Freilinger",12/3/2024 1:26:02 PM,1,4083,0.955087719298246,2/2
+300030998,"City of Silverton, Councilor (Vote For 3)","","","","City of Silverton",123062,,9901,"Write-in",12/3/2024 1:26:02 PM,3,280,0.0279804137104027,2/2
+300030998,"City of Silverton, Councilor (Vote For 3)","","","","City of Silverton",123062,,100073464,"Elvi Cuellar Sutton",12/3/2024 1:26:02 PM,3,3015,0.301289097631658,2/2
+300030998,"City of Silverton, Councilor (Vote For 3)","","","","City of Silverton",123062,,300045977,"Matthew Gaitan",12/3/2024 1:26:02 PM,3,2904,0.290196862196462,2/2
+300030998,"City of Silverton, Councilor (Vote For 3)","","","","City of Silverton",123062,,300046453,"Kyle B Palmer",12/3/2024 1:26:02 PM,3,3808,0.380533626461477,2/2
+300031001,"City of St Paul, Mayor","","","","City of St Paul",123063,,9901,"Write-in",12/3/2024 1:26:02 PM,1,11,0.0533980582524272,1/1
+300031001,"City of St Paul, Mayor","","","","City of St Paul",123063,,100073160,"Martin K Waldo",12/3/2024 1:26:02 PM,1,195,0.946601941747573,1/1
+300031000,"City of St Paul, Councilman (Vote For 2)","","","","City of St Paul",123064,,9901,"Write-in",12/3/2024 1:26:02 PM,2,12,0.0406779661016949,1/1
+300031000,"City of St Paul, Councilman (Vote For 2)","","","","City of St Paul",123064,,300045978,"Tracy Fleck",12/3/2024 1:26:02 PM,2,139,0.471186440677966,1/1
+300031000,"City of St Paul, Councilman (Vote For 2)","","","","City of St Paul",123064,,300046770,"Erika Gabbard",12/3/2024 1:26:02 PM,2,144,0.488135593220339,1/1
+300031002,"City of Stayton, Councilor (Vote For 2)","","","","City of Stayton",123065,,9901,"Write-in",12/3/2024 1:26:02 PM,2,50,0.00971062342202369,1/1
+300031002,"City of Stayton, Councilor (Vote For 2)","","","","City of Stayton",123065,,300045980,"Stephen Sims",12/3/2024 1:26:02 PM,2,1375,0.267042144105652,1/1
+300031002,"City of Stayton, Councilor (Vote For 2)","","","","City of Stayton",123065,,300046416,"Luke Bauer",12/3/2024 1:26:02 PM,2,1363,0.264711594484366,1/1
+300031002,"City of Stayton, Councilor (Vote For 2)","","","","City of Stayton",123065,,300046417,"Ken Carey",12/3/2024 1:26:02 PM,2,1416,0.275004855311711,1/1
+300031002,"City of Stayton, Councilor (Vote For 2)","","","","City of Stayton",123065,,300046418,"Gary Frank",12/3/2024 1:26:02 PM,2,945,0.183530782676248,1/1
+300031004,"City of Sublimity, Mayor","","","","City of Sublimity",123066,,9901,"Write-in",12/3/2024 1:26:02 PM,1,41,0.0314900153609831,1/1
+300031004,"City of Sublimity, Mayor","","","","City of Sublimity",123066,,300046317,"Michael Taylor",12/3/2024 1:26:02 PM,1,1261,0.968509984639017,1/1
+300031003,"City of Sublimity, Councilor (Vote For 2)","","","","City of Sublimity",123067,,9901,"Write-in",12/3/2024 1:26:02 PM,2,48,0.0240480961923848,1/1
+300031003,"City of Sublimity, Councilor (Vote For 2)","","","","City of Sublimity",123067,,300046318,"Kerst Bosma",12/3/2024 1:26:02 PM,2,854,0.427855711422846,1/1
+300031003,"City of Sublimity, Councilor (Vote For 2)","","","","City of Sublimity",123067,,300046320,"Kari Lowe",12/3/2024 1:26:02 PM,2,1094,0.54809619238477,1/1
+300031006,"City of Turner, Mayor","","","","City of Turner",123068,,9901,"Write-in",12/3/2024 1:26:02 PM,1,49,0.0434782608695652,1/1
+300031006,"City of Turner, Mayor","","","","City of Turner",123068,,100073167,"Steve Horning",12/3/2024 1:26:02 PM,1,1078,0.956521739130435,1/1
+300031005,"City of Turner, Councilor (Vote For 3)","","","","City of Turner",123069,,9901,"Write-in",12/3/2024 1:26:02 PM,3,164,0.0984393757503001,1/1
+300031005,"City of Turner, Councilor (Vote For 3)","","","","City of Turner",123069,,100073171,"Mike Schaufler",12/3/2024 1:26:02 PM,3,879,0.527611044417767,1/1
+300031005,"City of Turner, Councilor (Vote For 3)","","","","City of Turner",123069,,300046927,"Jamie L Mattison",12/3/2024 1:26:02 PM,3,623,0.373949579831933,1/1
+300031007,"City of Woodburn, Mayor","","","","City of Woodburn",123070,,9901,"Write-in",12/3/2024 1:26:02 PM,1,209,0.0341057441253264,7/7
+300031007,"City of Woodburn, Mayor","","","","City of Woodburn",123070,,100085964,"Frank J Lonergan",12/3/2024 1:26:02 PM,1,5919,0.965894255874674,7/7
+300031008,"City of Woodburn, Councilor, Ward 1","","","","City of Woodburn, Ward I",123071,,9901,"Write-in",12/3/2024 1:26:02 PM,1,16,0.020997375328084,1/1
+300031008,"City of Woodburn, Councilor, Ward 1","","","","City of Woodburn, Ward I",123071,,300046828,"Lilia Brizuela",12/3/2024 1:26:02 PM,1,746,0.979002624671916,1/1
+300031009,"City of Woodburn, Councilor, Ward 2","","","","City of Woodburn, Ward II",123072,,9901,"Write-in",12/3/2024 1:26:02 PM,1,14,0.0218068535825545,1/1
+300031009,"City of Woodburn, Councilor, Ward 2","","","","City of Woodburn, Ward II",123072,,300045981,"Mark J Wilk",12/3/2024 1:26:02 PM,1,628,0.978193146417445,1/1
+300031010,"City of Woodburn, Councilor, Ward 6","","","","City of Woodburn, Ward VI",123073,,9901,"Write-in",12/3/2024 1:26:02 PM,1,18,0.0276497695852535,1/1
+300031010,"City of Woodburn, Councilor, Ward 6","","","","City of Woodburn, Ward VI",123073,,300046830,"Alma Grijalva",12/3/2024 1:26:02 PM,1,633,0.972350230414747,1/1
+300031012,"Marion Soil & Water, Director, Zone 1","","","","Marion Soil & Water",131074,,9901,"Write-in",12/3/2024 1:26:02 PM,1,9323,1,115/115
+300031012,"Marion Soil & Water, Director, Zone 1","","","","Marion Soil & Water",131074,,300047728,"No Candidate Filed",12/3/2024 1:26:02 PM,1,0,0,115/115
+300031013,"Marion Soil & Water, Director, Zone 2","","","","Marion Soil & Water",131075,,9901,"Write-in",12/3/2024 1:26:02 PM,1,8378,1,115/115
+300031013,"Marion Soil & Water, Director, Zone 2","","","","Marion Soil & Water",131075,,300047729,"No Candidate Filed",12/3/2024 1:26:02 PM,1,0,0,115/115
+300031014,"Marion Soil & Water, Director, Zone 4","","","","Marion Soil & Water",131076,,9901,"Write-in",12/3/2024 1:26:02 PM,1,1436,0.0179909293643038,115/115
+300031014,"Marion Soil & Water, Director, Zone 4","","","","Marion Soil & Water",131076,,300047166,"Angela Plowhead",12/3/2024 1:26:02 PM,1,78382,0.982009070635696,115/115
+300031011,"Marion Soil & Water, Director, At Large #1","","","","Marion Soil & Water",131077,,9901,"Write-in",12/3/2024 1:26:02 PM,1,820,0.00883458849133241,115/115
+300031011,"Marion Soil & Water, Director, At Large #1","","","","Marion Soil & Water",131077,,300045983,"Peggy Hart",12/3/2024 1:26:02 PM,1,56389,0.60752879321676,115/115
+300031011,"Marion Soil & Water, Director, At Large #1","","","","Marion Soil & Water",131077,,300047169,"Tony Shepherd",12/3/2024 1:26:02 PM,1,35608,0.383636618291908,115/115
+300001458,"Measure 115 Amends Constitution: Authorizes impeachment of statewide elected officials by Oregon Legislature with two-thirds vote by each House; establishes process","","","","State Measure",217079,,1,"Yes",12/3/2024 1:26:02 PM,1,89601,0.605645417491872,1148/1314
+300001458,"Measure 115 Amends Constitution: Authorizes impeachment of statewide elected officials by Oregon Legislature with two-thirds vote by each House; establishes process","","","","State Measure",217079,,2,"No",12/3/2024 1:26:02 PM,1,58342,0.394354582508128,1148/1314
+300001461,"Measure 116 Amends Constitution: Establishes 'Independent Public Service Compensation Commission' to determine salaries for specified officials; eliminates legislative authority to set such salaries","","","","State Measure",217080,,1,"Yes",12/3/2024 1:26:02 PM,1,64133,0.440189712685492,1148/1314
+300001461,"Measure 116 Amends Constitution: Establishes 'Independent Public Service Compensation Commission' to determine salaries for specified officials; eliminates legislative authority to set such salaries","","","","State Measure",217080,,2,"No",12/3/2024 1:26:02 PM,1,81561,0.559810287314508,1148/1314
+300001462,"Measure 117 Gives voters option to rank candidates in order of preference; candidate receiving majority of votes in final round wins","","","","State Measure",217081,,1,"Yes",12/3/2024 1:26:02 PM,1,52631,0.353848015651578,1148/1314
+300001462,"Measure 117 Gives voters option to rank candidates in order of preference; candidate receiving majority of votes in final round wins","","","","State Measure",217081,,2,"No",12/3/2024 1:26:02 PM,1,96108,0.646151984348422,1148/1314
+300001463,"Measure 118 Increases highest corporate minimum taxes; distributes revenue to eligible individuals; state replaces reduced federal benefits","","","","State Measure",217082,,1,"Yes",12/3/2024 1:26:02 PM,1,32412,0.217269186681772,1148/1314
+300001463,"Measure 118 Increases highest corporate minimum taxes; distributes revenue to eligible individuals; state replaces reduced federal benefits","","","","State Measure",217082,,2,"No",12/3/2024 1:26:02 PM,1,116767,0.782730813318228,1148/1314
+300001464,"Measure 119 Cannabis retailers/processors must remain neutral regarding communications to their employees from labor organizations; penalties","","","","State Measure",217083,,1,"Yes",12/3/2024 1:26:02 PM,1,75558,0.520845396641575,1148/1314
+300001464,"Measure 119 Cannabis retailers/processors must remain neutral regarding communications to their employees from labor organizations; penalties","","","","State Measure",217083,,2,"No",12/3/2024 1:26:02 PM,1,69510,0.479154603358425,1148/1314
+300001427,"24-508 City of Hubbard: Prohibits psilocybin businesses within Hubbard.","","","","City of Hubbard",323078,,1,"Yes",12/3/2024 1:26:02 PM,1,833,0.630105900151286,1/1
+300001427,"24-508 City of Hubbard: Prohibits psilocybin businesses within Hubbard.","","","","City of Hubbard",323078,,2,"No",12/3/2024 1:26:02 PM,1,489,0.369894099848714,1/1
+300001422,"24-506 City of Jefferson: Prohibits psilocybin-related businesses within the City of Jefferson","","","","City of Jefferson",323079,,1,"Yes",12/3/2024 1:26:02 PM,1,972,0.626692456479691,1/1
+300001422,"24-506 City of Jefferson: Prohibits psilocybin-related businesses within the City of Jefferson","","","","City of Jefferson",323079,,2,"No",12/3/2024 1:26:02 PM,1,579,0.373307543520309,1/1
+300001397,"24-505 City of Mt Angel: Prohibits psilocybin-related businesses within the City of Mt. Angel","","","","City of Mt Angel",323080,,1,"Yes",12/3/2024 1:26:02 PM,1,1091,0.660411622276029,1/1
+300001397,"24-505 City of Mt Angel: Prohibits psilocybin-related businesses within the City of Mt. Angel","","","","City of Mt Angel",323080,,2,"No",12/3/2024 1:26:02 PM,1,561,0.339588377723971,1/1
+300001389,"24-504 City of Woodburn: Bonds constructing community center for recreation, fitness, aquatics, and events.","","","","City of Woodburn",323081,,1,"Yes",12/3/2024 1:26:02 PM,1,3495,0.399977111467155,7/7
+300001389,"24-504 City of Woodburn: Bonds constructing community center for recreation, fitness, aquatics, and events.","","","","City of Woodburn",323081,,2,"No",12/3/2024 1:26:02 PM,1,5243,0.600022888532845,7/7
+300001387,"24-507 Chemeketa Community College: Bonds to Upgrade and Enhance CTE, Technology, Facilities, and Safety","","","","Chemeketa C.C.",325038,,1,"Yes",12/3/2024 1:26:02 PM,1,65428,0.450258753578507,136/159
+300001387,"24-507 Chemeketa Community College: Bonds to Upgrade and Enhance CTE, Technology, Facilities, and Safety","","","","Chemeketa C.C.",325038,,2,"No",12/3/2024 1:26:02 PM,1,79884,0.549741246421493,136/159
+300001387,"24-507 Chemeketa Community College: Bonds to Upgrade and Enhance CTE, Technology, Facilities, and Safety","","","","Chemeketa Community College",325056,,1,"Yes",12/3/2024 1:26:02 PM,1,65428,0.450258753578507,136/159
+300001387,"24-507 Chemeketa Community College: Bonds to Upgrade and Enhance CTE, Technology, Facilities, and Safety","","","","Chemeketa Community College",325056,,2,"No",12/3/2024 1:26:02 PM,1,79884,0.549741246421493,136/159
+300001387,"24-507 Chemeketa Community College: Bonds to Upgrade and Enhance CTE, Technology, Facilities, and Safety","","","","Chemeketa C.C.",325066,,1,"Yes",12/3/2024 1:26:02 PM,1,65428,0.450258753578507,136/159
+300001387,"24-507 Chemeketa Community College: Bonds to Upgrade and Enhance CTE, Technology, Facilities, and Safety","","","","Chemeketa C.C.",325066,,2,"No",12/3/2024 1:26:02 PM,1,79884,0.549741246421493,136/159
+300001387,"24-507 Chemeketa Community College: Bonds to Upgrade and Enhance CTE, Technology, Facilities, and Safety","","","","Chemeketa Community College",325082,,1,"Yes",12/3/2024 1:26:02 PM,1,65428,0.450258753578507,136/159
+300001387,"24-507 Chemeketa Community College: Bonds to Upgrade and Enhance CTE, Technology, Facilities, and Safety","","","","Chemeketa Community College",325082,,2,"No",12/3/2024 1:26:02 PM,1,79884,0.549741246421493,136/159
+300001447,"27-143 Central School District 13J: Bonds increase safety, construct, repair schools, improve facilities, address overcrowding.","","","","Central School District 13J",326039,,1,"Yes",12/3/2024 1:26:02 PM,1,24,0.4,2/6
+300001447,"27-143 Central School District 13J: Bonds increase safety, construct, repair schools, improve facilities, address overcrowding.","","","","Central School District 13J",326039,,2,"No",12/3/2024 1:26:02 PM,1,36,0.6,2/6
+300001447,"27-143 Central School District 13J: Bonds increase safety, construct, repair schools, improve facilities, address overcrowding.","","","","Central School District 13J",326043,,1,"Yes",12/3/2024 1:26:02 PM,1,24,0.4,2/6
+300001447,"27-143 Central School District 13J: Bonds increase safety, construct, repair schools, improve facilities, address overcrowding.","","","","Central School District 13J",326043,,2,"No",12/3/2024 1:26:02 PM,1,36,0.6,2/6
+300001447,"27-143 Central School District 13J: Bonds increase safety, construct, repair schools, improve facilities, address overcrowding.","","","","Central School District 13J",326083,,1,"Yes",12/3/2024 1:26:02 PM,1,24,0.4,2/6
+300001447,"27-143 Central School District 13J: Bonds increase safety, construct, repair schools, improve facilities, address overcrowding.","","","","Central School District 13J",326083,,2,"No",12/3/2024 1:26:02 PM,1,36,0.6,2/6
